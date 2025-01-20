@@ -7,4 +7,4 @@ function patternGenerator(char, num) {
         console.log(str);
     }
 }
-patternGenerator('*',8)
+patternGenerator('*', 8)
